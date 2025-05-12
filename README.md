@@ -46,13 +46,6 @@ The game ends when the snake collides with the border, at which point a scoreboa
 
 The game runs smoothly on the Hack platform, with no visible performance issues. The gameplay becomes progressively more challenging as the snake grows, and the speed increases with each level.
 
-## Future Work
-
-Planned improvements include:
-- Introducing obstacles within the grid
-- Adding life-based gameplay allowing restart after collisions
-- Implementing power-ups to modify gameplay dynamics
-
 
 ## References
 
